@@ -70,7 +70,7 @@ Linux:
 lub
 Windows:
 ```
-> .\projectname\bin\activate.bat
+> .\projectname\Scripts\activate
 ```
 
 W wyniku aktywacji przed znakiem zachęty w konsoli powinna pojawić się nazwa venva:
