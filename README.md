@@ -4,7 +4,7 @@
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
 
-- zainstalować pythona w dowolnej wersji 3.7.x;
+- zainstalować pythona w dowolnej wersji 3.6.x;
 - zainstalować narzędzie virtualenv;
 - sklonować repozytorium z materiałami;
 - utworzyć środowisko wirtualne;
