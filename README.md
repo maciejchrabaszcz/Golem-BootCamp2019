@@ -1,6 +1,6 @@
 # Golem-BootCamp2019
 
-﻿# Przygotowanie środowiska do pracy
+# Przygotowanie środowiska do pracy
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
 
