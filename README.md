@@ -1,6 +1,9 @@
-# Golem-BootCamp2019
 
-# Przygotowanie środowiska do pracy
+# Golem AI Bootcamp
+
+W tym repozytorium znajdują się materiały do bootcampu z października 2019 roku.
+
+## Przygotowanie środowiska do pracy
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
 
@@ -13,7 +16,7 @@ Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytoriu
 - zainstalować jupyter notebook;
 
 
-## Instalacja pythona 3.6.x
+### Instalacja pythona 3.6.x
 
 Tutaj sposób instalacji będzie zależał od systemu operacyjnego, generalnie pod tym linkiem można się dowiedzieć jak zainstalować pythona na swojej maszynie ⇒ https://www.python.org/  
 **Uwaga:** Python powinien być pobrany w odpowiedniej wersji (3.6.x) oraz razem z pythonem należy zainstalować pip, czyli menadżer pakietów pythona.
@@ -28,7 +31,7 @@ Python 3.6.x
 pip x.x.x from ... (python 3.6)
 ```
 
-## Instalacja virtualenva
+### Instalacja virtualenva
 
 Należy wpisać komendę:
 ```
@@ -40,7 +43,7 @@ Sprawdzenie:
 x.x.x
 ```
 
-## Klonowanie repozytorium z materiałami
+### Klonowanie repozytorium z materiałami
 
 Należy zainstalować gita ⇒ https://git-scm.com/downloads
 Można również się wesprzeć jakimś GUI, np. gitkraken, sourcetree, itp.
@@ -54,7 +57,7 @@ W konsoli będzie to wyglądać tak:
 
 **Uwaga:** Jeżeli do tej pory nie używałeś gita, polecam zrobić sobie kilka pierwszych kroków w tutorialu ⇒ https://learngitbranching.js.org/
 
-## Utworzyć środowisko wirtualne
+### Utworzyć środowisko wirtualne
 
 W katalogu, który powstał w wyniku wykonania poprzedniego punktu należy wykonać komendę:
 ```
@@ -78,7 +81,7 @@ W wyniku aktywacji przed znakiem zachęty w konsoli powinna pojawić się nazwa 
 (projectname) >
 ```
 
-## Instalacja kernala dla utworzonego środowiska
+### Instalacja kernala dla utworzonego środowiska
 
 Przy aktywowanym środowisku należy wywołać komendy:
 ```
@@ -87,26 +90,20 @@ Przy aktywowanym środowisku należy wywołać komendy:
 ```
 Po tej operacji zostanie utworzony kernel jupytera dla środowiska wirtualnego.
 
-## Instalacja potrzebnych bibliotek
+### Instalacja potrzebnych bibliotek
 
 W głównym katalogu repozytorium znajduje się plik `requiremnets.txt`. Zawiera on wszystkie potrzebne do przeprowadzenia warsztatów biblioteki. Aby je zainstalować nalezy wywołać komendę:
 ```
 (projectname) > pip install -r requirements.txt
 ```
 
-## Instalacja jupytera
-Trzeba wykonać komendę:
-```
-(projectname) > pip install jupyter
-```
-
-# Sprawdzenie czy konfiguracja środowiska przebiegła pomyślnie
+## Sprawdzenie czy konfiguracja środowiska przebiegła pomyślnie
 Należy wywołać komendę w głównym katalogu repozytorium:
 ```
 (projectname) > jupyter notebook
 ```
 Następnie w nowo otwartej karcie przeglądarki wybrać...
 
-# Troubleshooting
-W przypadku problemów z konfiguracją środowiska napiszcie o swoim problemie na kanale #bootcamp na discordzie. Zachęcamy bardziej zaawansowanych uczestników do pomagania mniej zaawansowanym. My również będziemy tam zaglądać.
+## Troubleshooting
+W przypadku problemów z konfiguracją środowiska napiszcie o swoim problemie na kanale **#bootcamp** na discordzie. Zachęcamy bardziej zaawansowanych uczestników do pomagania mniej zaawansowanym. My również będziemy tam zaglądać.
 
