@@ -102,7 +102,8 @@ Należy wywołać komendę w głównym katalogu repozytorium:
 ```
 (projectname) > jupyter notebook
 ```
-Następnie w nowo otwartej karcie przeglądarki wybrać...
+Następnie w nowo otwartej karcie przeglądarki wybrać plik `test-environment.ipynb`.  
+W nowo otwartej karcie nacisnąć przycisk run lub skrót `Ctrl+Enter`, jeżeli kod (importy) wykona się poprawnie, to znaczy, że konfiguracja przebiegła pomyślnie.
 
 ## Troubleshooting
 W przypadku problemów z konfiguracją środowiska napiszcie o swoim problemie na kanale **#bootcamp** na discordzie. Zachęcamy bardziej zaawansowanych uczestników do pomagania mniej zaawansowanym. My również będziemy tam zaglądać.

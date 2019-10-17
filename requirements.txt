@@ -5,3 +5,5 @@ sklearn
 jupyter
 tensorflow
 seaborn
+keras
+scikit-image
