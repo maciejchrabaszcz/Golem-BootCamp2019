@@ -3,6 +3,14 @@
 
 W tym repozytorium znajdują się materiały do bootcampu z października 2019 roku.
 
+## Materiały ze spotkań
+
+Linki z opisami:
+
+- Prezentacja z pierwszego spotkania: https://docs.google.com/presentation/d/1weIubPyaU0f6YlcgQuYVAVR7KFB2CrrfAa0SVN8Uvx8/edit?usp=sharing
+- Konspekt wykladu z pierwszego spotkania: https://docs.google.com/document/d/1DS0qZwJe_QFTeNWhnzLpga0eLYxX1MseO3lc0mdMwHk/edit?usp=sharing
+- TBA...
+
 ## Przygotowanie środowiska do pracy
 
 Aby przygotować środowisko do pracy z materiałami zawartymi w tym repozytorium, należy wykonać następujące kroki:
