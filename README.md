@@ -13,6 +13,8 @@ https://docs.google.com/presentation/d/1weIubPyaU0f6YlcgQuYVAVR7KFB2CrrfAa0SVN8U
 https://docs.google.com/document/d/1DS0qZwJe_QFTeNWhnzLpga0eLYxX1MseO3lc0mdMwHk/edit?usp=sharing
 - Prezentacja (klasyfikacja vs regresja) z trzeciego spotkania:  
 https://docs.google.com/presentation/d/1Y95aqqHOpcjnFh-51tW5dagIXnQU99RUeF2sQYwSoOI/edit?usp=sharing
+- Prezentacja z czwartego spotkania:  
+https://docs.google.com/presentation/d/1TUQjReBMtT15hKY4u6faQVa-OS4IAsqTZt0dfKgqdOY/edit?usp=sharing
 - TBA...
 
 ## Przygotowanie środowiska do pracy
