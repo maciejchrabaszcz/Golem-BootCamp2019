@@ -67,7 +67,7 @@ Po instalacji należy sklonować repozytorium spod adresu: *https://github.com/m
 
 W konsoli będzie to wyglądać tak:
 ```
-> git clone git@github.com:maciejchrabaszcz/Golem-BootCamp2019.git
+> git clone https://github.com/maciejchrabaszcz/Golem-BootCamp2019.git
 ```
 
 **Uwaga:** Jeżeli do tej pory nie używałeś gita, polecam zrobić sobie kilka pierwszych kroków w tutorialu ⇒ https://learngitbranching.js.org/
